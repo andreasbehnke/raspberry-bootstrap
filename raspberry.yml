@@ -1,0 +1,6 @@
+---
+
+- hosts: raspberry
+
+  roles:
+    - remote-access
